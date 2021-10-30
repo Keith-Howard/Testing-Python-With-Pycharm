@@ -11,4 +11,4 @@
     c) open up the py file in Pycharm that is the main program
     d) under project setting/Project: <project name that you opened up>  set the python Interpreter
     e) On the same page that you setup the Interpreter press the '+'
-        a) search for the package that that you need e.g. Pandas and install it and all other packages that are listed on the py main file that you openned
+        a) search for the package that that you need e.g. Pandas and install it and all other packages that are listed on the py main file that you opened
